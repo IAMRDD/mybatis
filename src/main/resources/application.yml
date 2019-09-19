@@ -1,0 +1,8 @@
+
+# ˝æ›ø‚≈‰÷√
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: DFR1996
+    url: jdbc:mysql://139.199.213.199:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=false
